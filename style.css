@@ -364,47 +364,11 @@ img {
     display: flex;
     margin-top: 10px;
 }
-.color_grey{
+.color_box{
     width: 15px;
     height: 15px;
-    background-color: #737373;
 }
-.color_darkbrown {
-    width: 15px;
-    height: 15px;
-    background-color: #9C0909;
-}
-.color_orange {
-    width: 15px;
-    height: 15px;
-    background-color: #D48D37;
-}
-.color_brown{
-    width: 15px;
-    height: 15px;
-    background-color: #964B00;
-}
-.color_red {
-    width: 15px;
-    height: 15px;
-    background-color: #DC143C;
-}
-.color_green {
-    width: 15px;
-    height: 15px;
-    background-color: #49423D;
-}
-.color_orange{
-    width: 15px;
-    height: 15px;
-    background-color: #D77D31;
-}
-.color_black {
-    margin-right: 108px;
-    width: 15px;
-    height: 15px;
-    background-color: black;
-}
+
 
 .right_block {
     background-color: #404040;
